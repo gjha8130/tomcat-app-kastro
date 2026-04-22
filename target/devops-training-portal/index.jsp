@@ -49,8 +49,8 @@
                         <i class="fas fa-user-tie"></i>
                     </div>
                     <div class="instructor-details">
-                        <h2>I'm Kastro Kiran V</h2>
-                        <p>AWS and DevOps Trainer</p>
+                        <h2>I'm Guddu Jha</h2>
+                        <p>AWS and DevOps Engineer</p>
                     </div>
                 </div>
                 <div class="hero-stats">
@@ -95,14 +95,14 @@
                     <i class="fas fa-user-graduate"></i>
                 </div>
                 <div class="profile-content">
-                    <h3>Kastro Kiran V</h3>
+                    <h3>Guddu Jha</h3>
                     <div class="profile-badges">
                         <span class="badge">AWS Certified</span>
                         <span class="badge">Kubernetes Expert</span>
                         <span class="badge">Docker Captain</span>
                         <span class="badge">Jenkins Specialist</span>
                     </div>
-                    <p>With over 6 years of experience in DevOps and Cloud Engineering, I've helped numerous organizations transform their development and deployment processes. My hands-on approach ensures students gain practical skills that are immediately applicable in real-world scenarios.</p>
+                    <p>With over 3 years of experience in DevOps and Cloud Engineering, I've helped numerous organizations transform their development and deployment processes. My hands-on approach ensures students gain practical skills that are immediately applicable in real-world scenarios.</p>
                     
                     <div class="expertise-areas">
                         <h4>Areas of Expertise</h4>
